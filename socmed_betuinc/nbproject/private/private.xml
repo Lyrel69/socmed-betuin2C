@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/db/dbconnect.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/add_post.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/load_timeline.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/load_user_posts.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/login_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/logout_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/models/signup_account.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/views/res/style.css</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/views/header.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/views/footer.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/index.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/login.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/profile.php</file>
+            <file>file:/C:/xampp/htdocs/socmed_betuinc/timeline.php</file>
+        </group>
+    </open-files>
+</project-private>
